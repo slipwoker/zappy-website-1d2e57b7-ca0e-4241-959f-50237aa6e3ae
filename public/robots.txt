@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hubspot-professionals-mentorship-program-1d2e57b7.zappy5.app/sitemap.xml
