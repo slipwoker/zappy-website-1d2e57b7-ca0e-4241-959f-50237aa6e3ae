@@ -1,6 +1,4 @@
-# HubSpot Professionals Mentorship Program — Generative Engine Optimization Map
-
-> A education/training business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About HubSpot Professionals Mentorship Program
-HubSpot Professionals Mentorship Program is a business in the education/training industry.
-
-## Target Audience
-aspiring HubSpot professionals
-
-## Industry
-education/training
-
+## About Business
 ---
 
 # Additional Resources
