@@ -1,53 +1,43 @@
-# HubSpot Professionals Mentorship Program — Generative Engine Optimization Map
-
-> A education/training business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://hubspot-professionals-mentorsh.zappy5.app
+https://example.com
 
 ### Programs
-https://hubspot-professionals-mentorsh.zappy5.app/programs
+https://example.com/programs
 
 ### Mentors
-https://hubspot-professionals-mentorsh.zappy5.app/mentors
+https://example.com/mentors
 
 ### Contact
-https://hubspot-professionals-mentorsh.zappy5.app/contact
+https://example.com/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://hubspot-professionals-mentorsh.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://hubspot-professionals-mentorsh.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://hubspot-professionals-mentorsh.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About HubSpot Professionals Mentorship Program
-HubSpot Professionals Mentorship Program is a business in the education/training industry.
-
-## Target Audience
-aspiring HubSpot professionals
-
-## Industry
-education/training
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://hubspot-professionals-mentorsh.zappy5.app/sitemap.xml
-- **Robots.txt**: https://hubspot-professionals-mentorsh.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
